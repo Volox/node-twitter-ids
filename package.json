@@ -1,0 +1,17 @@
+{
+  "name": "twitter-ids",
+  "version": "1.0.0",
+  "description": "Get raw tweets from a list of ids",
+  "main": "./lib/index.js",
+  "scripts": {},
+  "author": "Volox",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "2.x",
+    "debug": "2.x",
+    "twit": "2.x"
+  },
+  "devDependencies": {
+    "eslint-config-volox": "*"
+  }
+}

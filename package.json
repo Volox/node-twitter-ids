@@ -1,6 +1,6 @@
 {
   "name": "twitter-ids",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get raw tweets from a list of ids",
   "main": "./lib/index.js",
   "scripts": {},
